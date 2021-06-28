@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Gameplay.qml</file>
+        <file>Toolbar.qml</file>
+        <file>Brick.qml</file>
+        <file>Words.qml</file>
+    </qresource>
+    <qresource prefix="/resource"/>
+    <qresource lang="qml" prefix="/image"/>
+</RCC>
